@@ -14,8 +14,7 @@ Feel free to connect with me for collaboration, ideas, or just a friendly chat!
 
 ### 🔧 Skills
 
-- **Programming Languages**: Python, JavaScript, C++  
-- **Web Development**: HTML, CSS, React  
+- **Programming Languages**: Python, C++    
 - **Data Analysis**: Pandas, NumPy, Matplotlib  
 - **Machine Learning**: TensorFlow, Scikit-learn  
 - **Tools**: Git, Docker, VS Code  
