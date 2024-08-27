@@ -23,6 +23,6 @@ Feel free to connect with me for collaboration, ideas, or just a friendly chat!
 ---
 
 ### 🌐 SOCIAL MEDIA 
-- [LinkedIn](https://www.linkedin.com/in/abdullah-bakran)    
-- [Instagram](https://www.instagram.com/Xrr5.5)  
-- [GitHub](https://github.com/your-github-BAKRAN-1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-bakran)    
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/Xrr5.5)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/your-github-BAKRAN-1)  
