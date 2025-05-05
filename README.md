@@ -2,7 +2,7 @@
 
 🌍 **Location**: Based in Saudi Arabia  
 ✉️ **Contact**: Reach me at [3bdullahbakran@gmail.com](mailto:3bdullahbakran@gmail.com)  
-🚀 **Current Focus**: Working on an intern application  
+🚀 **Current Focus**: Machine Learning  
 🌱 **Learning**: Diving deep into Artificial Intelligence & Machine Learning  
 🧠 **Mindset**: Continuously learning and exploring new challenges  
 🤝 **Collaboration**: Open to collaborating on innovative projects and ideas  
